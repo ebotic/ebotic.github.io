@@ -1,4 +1,4 @@
-ebotic.github.io
-================
+Ebotic-site
+===========
 
-The site for our company Ebotic, which will host all our latest updates.
+Official website for Ebotic, a personal flying assistant company.

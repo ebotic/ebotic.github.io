@@ -1,0 +1,38 @@
+/* Basic */
+
+	body,input,textarea,select
+	{
+		font-size: 13pt;
+		line-height: 1.65em;
+	}
+
+	/* Feature Icon */
+
+		.feature-icon
+		{
+			margin-bottom: 2em;
+		}
+
+
+/* Header */
+
+	#header .bcg
+	{
+		padding: 12em 0 12em 0;
+	}
+
+/* Main */
+
+	.main
+	{
+	}
+	
+		.main > header
+		{
+			padding: 4em 0 4em 0;
+		}
+		
+		.main > .content
+		{
+			padding: 4em 0 4em 0;
+		}
